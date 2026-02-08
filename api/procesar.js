@@ -5,3 +5,4 @@ export default function handler(req, res) {
     resultado: `Nombre procesado: ${nombre.toLowerCase()}`
   });
 }
+ 
