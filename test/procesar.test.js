@@ -25,6 +25,6 @@ test("procesar convierte el nombre a mayúsculas", () => {
   resultado: "Nombre procesado: JUAN",
   longitud: 4
 });
-
+});
 
 
